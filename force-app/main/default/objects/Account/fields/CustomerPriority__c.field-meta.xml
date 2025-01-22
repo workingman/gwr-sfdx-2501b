@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CustomerPriority__c</fullName>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <value>
+                <fullName>High</fullName>
+                <isActive>true</isActive>
+                <label>High</label>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Low</fullName>
+                <isActive>true</isActive>
+                <label>Low</label>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Medium</fullName>
+                <isActive>true</isActive>
+                <label>Medium</label>
+                <default>false</default>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <required>false</required>
+    <label>Customer Priority</label>
+    <trackFeedHistory>false</trackFeedHistory>
+</CustomField>
