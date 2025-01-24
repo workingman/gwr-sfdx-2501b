@@ -205,6 +205,11 @@
         <editable>true</editable>
     </fieldPermissions>
     <fieldPermissions>
+        <field>Account.GWR_backpromote__c</field>
+        <readable>true</readable>
+        <editable>true</editable>
+    </fieldPermissions>
+    <fieldPermissions>
         <field>Account.GWR_checkbokx2__c</field>
         <readable>true</readable>
         <editable>true</editable>

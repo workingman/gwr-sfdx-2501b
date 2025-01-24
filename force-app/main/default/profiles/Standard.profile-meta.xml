@@ -210,6 +210,11 @@
         <editable>true</editable>
     </fieldPermissions>
     <fieldPermissions>
+        <field>Account.GWR_backpromote__c</field>
+        <readable>true</readable>
+        <editable>true</editable>
+    </fieldPermissions>
+    <fieldPermissions>
         <field>Account.GWR_text_1__c</field>
         <readable>false</readable>
         <editable>false</editable>
