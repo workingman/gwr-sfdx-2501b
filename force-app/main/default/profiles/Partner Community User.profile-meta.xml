@@ -228,6 +228,11 @@
         <editable>false</editable>
     </fieldPermissions>
     <fieldPermissions>
+        <field>Account.GWR_Scale__c</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
         <field>Account.GWR_text_1__c</field>
         <readable>false</readable>
         <editable>false</editable>
@@ -2464,6 +2469,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <field>Lead.GenderIdentity</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>Lead.GWR_Comments__c</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>Lead.GWR_Hot_Lead__c</field>
         <readable>false</readable>
         <editable>false</editable>
     </fieldPermissions>
