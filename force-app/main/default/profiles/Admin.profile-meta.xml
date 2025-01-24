@@ -215,6 +215,11 @@
         <editable>true</editable>
     </fieldPermissions>
     <fieldPermissions>
+        <field>Account.GWR_new_checkbox__c</field>
+        <readable>true</readable>
+        <editable>true</editable>
+    </fieldPermissions>
+    <fieldPermissions>
         <field>Account.GWR_text_1__c</field>
         <readable>true</readable>
         <editable>true</editable>
