@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>gwr_Status__c</fullName>
+    <type>Text</type>
+    <length>100</length>
+    <required>false</required>
+    <description>gwr status 20230918-155404</description>
+    <externalId>false</externalId>
+    <label>_gwr_Status</label>
+    <unique>false</unique>
+    <caseSensitive>false</caseSensitive>
+    <trackFeedHistory>false</trackFeedHistory>
+</CustomField>
