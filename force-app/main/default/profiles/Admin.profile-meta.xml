@@ -2473,6 +2473,11 @@
         <editable>false</editable>
     </fieldPermissions>
     <fieldPermissions>
+        <field>Lead.GWR_Cactus1__c</field>
+        <readable>true</readable>
+        <editable>true</editable>
+    </fieldPermissions>
+    <fieldPermissions>
         <field>Lead.GWR_Comments__c</field>
         <readable>true</readable>
         <editable>true</editable>
