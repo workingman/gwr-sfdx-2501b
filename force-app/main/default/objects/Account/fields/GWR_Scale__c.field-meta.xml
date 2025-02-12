@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>GWR_Scale__c</fullName>
+    <type>Number</type>
+    <required>false</required>
+    <externalId>false</externalId>
+    <label>GWR Scale</label>
+    <precision>18</precision>
+    <scale>0</scale>
+    <unique>false</unique>
+    <trackFeedHistory>false</trackFeedHistory>
+</CustomField>
