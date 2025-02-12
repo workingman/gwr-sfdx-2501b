@@ -11,6 +11,11 @@
         <visible>false</visible>
     </applicationVisibilities>
     <applicationVisibilities>
+        <application>standard__Approvals</application>
+        <default>false</default>
+        <visible>false</visible>
+    </applicationVisibilities>
+    <applicationVisibilities>
         <application>standard__Chatter</application>
         <default>false</default>
         <visible>false</visible>
@@ -22,6 +27,11 @@
     </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__Content</application>
+        <default>false</default>
+        <visible>false</visible>
+    </applicationVisibilities>
+    <applicationVisibilities>
+        <application>standard__DataGovernanceConsole</application>
         <default>false</default>
         <visible>false</visible>
     </applicationVisibilities>
@@ -1067,6 +1077,11 @@
         <editable>true</editable>
     </fieldPermissions>
     <fieldPermissions>
+        <field>Contact.BuyerAttributes</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
         <field>Contact.CleanStatus</field>
         <readable>true</readable>
         <editable>false</editable>
@@ -1602,6 +1617,41 @@
         <editable>true</editable>
     </fieldPermissions>
     <fieldPermissions>
+        <field>CreditMemo.CorpCrcyCnvTotAmtWithTax</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>CreditMemo.CorporateCurrencyCvsnDate</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>CreditMemo.CorporateCurrencyCvsnRate</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>CreditMemoLine.CorpCurrencyCnvChargeAmt</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>CreditMemoLine.CorpCurrencyCnvTotalTaxAmt</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>CreditMemoLine.CorporateCurrencyCvsnDate</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>CreditMemoLine.CorporateCurrencyCvsnRate</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
         <field>Customer.CustomerStatusType</field>
         <readable>true</readable>
         <editable>true</editable>
@@ -1992,6 +2042,41 @@
         <editable>true</editable>
     </fieldPermissions>
     <fieldPermissions>
+        <field>Invoice.CorpCrcyCnvTotAmtWithTax</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>Invoice.CorporateCurrencyCvsnDate</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>Invoice.CorporateCurrencyCvsnRate</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>InvoiceLine.CorpCurrencyCnvChargeAmt</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>InvoiceLine.CorpCurrencyCnvTotalTaxAmt</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>InvoiceLine.CorporateCurrencyCvsnDate</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>InvoiceLine.CorporateCurrencyCvsnRate</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
         <field>Lead.Address</field>
         <readable>true</readable>
         <editable>true</editable>
@@ -2043,6 +2128,21 @@
     </fieldPermissions>
     <fieldPermissions>
         <field>Lead.GenderIdentity</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>Lead.GWR_Cactus1__c</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>Lead.GWR_Comments__c</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>Lead.GWR_Hot_Lead__c</field>
         <readable>false</readable>
         <editable>false</editable>
     </fieldPermissions>
@@ -2222,6 +2322,11 @@
         <editable>true</editable>
     </fieldPermissions>
     <fieldPermissions>
+        <field>MessagingEndUser.AuthenticatedEndUserId</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
         <field>MessagingEndUser.ContactId</field>
         <readable>true</readable>
         <editable>true</editable>
@@ -2235,6 +2340,11 @@
         <field>MessagingEndUser.IsOptedOut</field>
         <readable>true</readable>
         <editable>true</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>MessagingEndUser.Language</field>
+        <readable>false</readable>
+        <editable>false</editable>
     </fieldPermissions>
     <fieldPermissions>
         <field>MessagingEndUser.LeadId</field>
@@ -2499,6 +2609,11 @@
     <fieldPermissions>
         <field>OrderItem.ProductCode</field>
         <readable>true</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>OrderItem.ReferencePrice</field>
+        <readable>false</readable>
         <editable>false</editable>
     </fieldPermissions>
     <fieldPermissions>
