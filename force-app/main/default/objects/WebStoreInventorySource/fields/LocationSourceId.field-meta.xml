@@ -4,5 +4,5 @@
     <type>Lookup</type>
     <relationshipName>LocationSource</relationshipName>
     <required>true</required>
-    <inlineHelpText>Default location or location group for inventory reservations.</inlineHelpText>
+    <inlineHelpText>The default location or location group for inventory reservations.</inlineHelpText>
 </CustomField>
