@@ -205,12 +205,27 @@
         <editable>true</editable>
     </fieldPermissions>
     <fieldPermissions>
+        <field>Account.GWR_Assigned__c</field>
+        <readable>true</readable>
+        <editable>true</editable>
+    </fieldPermissions>
+    <fieldPermissions>
         <field>Account.GWR_backpromote__c</field>
         <readable>true</readable>
         <editable>true</editable>
     </fieldPermissions>
     <fieldPermissions>
         <field>Account.GWR_checkbokx2__c</field>
+        <readable>true</readable>
+        <editable>true</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>Account.GWR_new_checkbox__c</field>
+        <readable>true</readable>
+        <editable>true</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>Account.GWR_Scale__c</field>
         <readable>true</readable>
         <editable>true</editable>
     </fieldPermissions>
@@ -2453,6 +2468,16 @@
         <field>Lead.GenderIdentity</field>
         <readable>false</readable>
         <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>Lead.GWR_Comments__c</field>
+        <readable>true</readable>
+        <editable>true</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>Lead.GWR_Hot_Lead__c</field>
+        <readable>true</readable>
+        <editable>true</editable>
     </fieldPermissions>
     <fieldPermissions>
         <field>Lead.HasOptedOutOfEmail</field>
