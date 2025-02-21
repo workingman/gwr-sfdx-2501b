@@ -3,7 +3,7 @@
     <fullName>ReservationDurationInSeconds</fullName>
     <type>Number</type>
     <required>true</required>
-    <inlineHelpText>Enter a value for the reservation time limit that&apos;s between 300 and 14400.</inlineHelpText>
+    <inlineHelpText>The reservation time limit must be between 300 and 14,400. The default for a new store is 900.</inlineHelpText>
     <precision>9</precision>
     <scale>0</scale>
     <unique>false</unique>
