@@ -17,20 +17,33 @@
                 <default>false</default>
             </value>
             <value>
+                <fullName>Bronze</fullName>
+                <isActive>true</isActive>
+                <label>Bronze</label>
+                <default>true</default>
+            </value>
+            <value>
                 <fullName>Platinum</fullName>
                 <isActive>true</isActive>
                 <label>Platinum</label>
                 <default>false</default>
             </value>
             <value>
-                <fullName>Bronze</fullName>
+                <fullName>Titanium</fullName>
                 <isActive>true</isActive>
-                <label>Bronze</label>
+                <label>Titanium</label>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Tin</fullName>
+                <isActive>true</isActive>
+                <label>Tin</label>
                 <default>false</default>
             </value>
         </valueSetDefinition>
     </valueSet>
     <required>false</required>
     <label>SLA</label>
+    <description>snapshot diff</description>
     <trackFeedHistory>false</trackFeedHistory>
 </CustomField>

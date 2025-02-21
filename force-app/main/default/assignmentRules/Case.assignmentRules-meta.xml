@@ -4,8 +4,16 @@
         <fullName>Standard</fullName>
         <active>true</active>
         <ruleEntry>
-            <assignedTo>geoffrey.routledge+dev2@salto.io</assignedTo>
-            <assignedToType>User</assignedToType>
+            <assignedTo>
+                <target>
+                    <adapter>salesforce</adapter>
+                    <typeName>Queue</typeName>
+                    <idType>instance</idType>
+                    <nameParts>Main_queue</nameParts>
+                    <fullName>salesforce.Queue.instance.Main_queue</fullName>
+                </target>
+            </assignedTo>
+            <assignedToType>Queue</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
                 <operation>equals</operation>
@@ -23,8 +31,16 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>geoffrey.routledge+dev2@salto.io</assignedTo>
-            <assignedToType>User</assignedToType>
+            <assignedTo>
+                <target>
+                    <adapter>salesforce</adapter>
+                    <typeName>Queue</typeName>
+                    <idType>instance</idType>
+                    <nameParts>Main_queue</nameParts>
+                    <fullName>salesforce.Queue.instance.Main_queue</fullName>
+                </target>
+            </assignedTo>
+            <assignedToType>Queue</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
                 <operation>equals</operation>
@@ -33,7 +49,7 @@
             <criteriaItems>
                 <field>Account.SLA__c</field>
                 <operation>equals</operation>
-                <value>Silver,Bronze</value>
+                <value>Silver,Copper</value>
             </criteriaItems>
             <criteriaItems>
                 <field>Account.Type</field>
@@ -42,8 +58,16 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>geoffrey.routledge+dev2@salto.io</assignedTo>
-            <assignedToType>User</assignedToType>
+            <assignedTo>
+                <target>
+                    <adapter>salesforce</adapter>
+                    <typeName>Queue</typeName>
+                    <idType>instance</idType>
+                    <nameParts>Main_queue</nameParts>
+                    <fullName>salesforce.Queue.instance.Main_queue</fullName>
+                </target>
+            </assignedTo>
+            <assignedToType>Queue</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
                 <operation>notEqual</operation>
@@ -61,8 +85,16 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>geoffrey.routledge+dev2@salto.io</assignedTo>
-            <assignedToType>User</assignedToType>
+            <assignedTo>
+                <target>
+                    <adapter>salesforce</adapter>
+                    <typeName>Queue</typeName>
+                    <idType>instance</idType>
+                    <nameParts>Main_queue</nameParts>
+                    <fullName>salesforce.Queue.instance.Main_queue</fullName>
+                </target>
+            </assignedTo>
+            <assignedToType>Queue</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
                 <operation>notEqual</operation>
@@ -71,7 +103,7 @@
             <criteriaItems>
                 <field>Account.SLA__c</field>
                 <operation>equals</operation>
-                <value>Silver,Bronze</value>
+                <value>Silver,Copper</value>
             </criteriaItems>
             <criteriaItems>
                 <field>Account.Type</field>
@@ -80,8 +112,16 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>geoffrey.routledge+dev2@salto.io</assignedTo>
-            <assignedToType>User</assignedToType>
+            <assignedTo>
+                <target>
+                    <adapter>salesforce</adapter>
+                    <typeName>Queue</typeName>
+                    <idType>instance</idType>
+                    <nameParts>Main_queue</nameParts>
+                    <fullName>salesforce.Queue.instance.Main_queue</fullName>
+                </target>
+            </assignedTo>
+            <assignedToType>Queue</assignedToType>
             <criteriaItems>
                 <field>Account.Type</field>
                 <operation>contains</operation>
