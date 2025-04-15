@@ -3,7 +3,7 @@
     <fullName>ResultingBalance</fullName>
     <type>Currency</type>
     <required>false</required>
-    <inlineHelpText>The balance of your reference entity as a result of the event action</inlineHelpText>
     <scale>2</scale>
     <precision>18</precision>
+    <inlineHelpText>The balance of your reference entity as a result of the event action</inlineHelpText>
 </CustomField>

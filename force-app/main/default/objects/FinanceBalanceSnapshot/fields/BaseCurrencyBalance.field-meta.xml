@@ -3,7 +3,7 @@
     <fullName>BaseCurrencyBalance</fullName>
     <type>Currency</type>
     <required>false</required>
-    <inlineHelpText>Define this value based on any currency conversion needed for the resulting balance.</inlineHelpText>
     <scale>2</scale>
     <precision>18</precision>
+    <inlineHelpText>Define this value based on any currency conversion needed for the resulting balance.</inlineHelpText>
 </CustomField>

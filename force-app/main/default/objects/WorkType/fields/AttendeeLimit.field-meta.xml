@@ -3,8 +3,8 @@
     <fullName>AttendeeLimit</fullName>
     <type>Number</type>
     <required>false</required>
-    <inlineHelpText>Enter the maximum number of service appointment attendees that can attend a group service appointment. This field is mandatory if the appointment category is group.</inlineHelpText>
-    <precision>9</precision>
     <scale>0</scale>
+    <precision>9</precision>
     <unique>false</unique>
+    <inlineHelpText>Enter the maximum number of service appointment attendees that can attend a group service appointment. This field is mandatory if the appointment category is group.</inlineHelpText>
 </CustomField>

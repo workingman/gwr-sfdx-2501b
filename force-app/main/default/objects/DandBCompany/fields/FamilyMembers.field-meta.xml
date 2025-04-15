@@ -3,7 +3,7 @@
     <fullName>FamilyMembers</fullName>
     <type>Number</type>
     <required>false</required>
-    <precision>5</precision>
     <scale>0</scale>
+    <precision>5</precision>
     <unique>false</unique>
 </CustomField>

@@ -3,7 +3,7 @@
     <fullName>BaseCurrencyAmount</fullName>
     <type>Currency</type>
     <required>false</required>
-    <inlineHelpText>Define this value based on any currency conversion needed for the total amount with tax.</inlineHelpText>
     <scale>2</scale>
     <precision>18</precision>
+    <inlineHelpText>Define this value based on any currency conversion needed for the total amount with tax.</inlineHelpText>
 </CustomField>

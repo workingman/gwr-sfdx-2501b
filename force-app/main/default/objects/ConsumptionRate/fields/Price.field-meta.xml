@@ -3,7 +3,7 @@
     <fullName>Price</fullName>
     <type>Currency</type>
     <required>true</required>
-    <inlineHelpText>The price for usage that falls within this consumption rate&apos;s bounds.</inlineHelpText>
     <scale>2</scale>
     <precision>13</precision>
+    <inlineHelpText>The price for usage that falls within this consumption rate&apos;s bounds.</inlineHelpText>
 </CustomField>

@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>ParentServiceContractId</fullName>
     <type>Lookup</type>
-    <relationshipName>ParentServiceContract</relationshipName>
     <required>false</required>
+    <relationshipName>ParentServiceContract</relationshipName>
     <trackHistory>false</trackHistory>
 </CustomField>

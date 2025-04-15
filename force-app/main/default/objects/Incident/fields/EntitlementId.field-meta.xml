@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>EntitlementId</fullName>
     <type>Lookup</type>
-    <relationshipName>Entitlement</relationshipName>
     <required>false</required>
+    <relationshipName>Entitlement</relationshipName>
     <trackFeedHistory>false</trackFeedHistory>
 </CustomField>

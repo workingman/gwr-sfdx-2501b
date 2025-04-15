@@ -3,7 +3,7 @@
     <fullName>NumberOfEmployees</fullName>
     <type>Number</type>
     <required>false</required>
-    <precision>8</precision>
     <scale>0</scale>
+    <precision>8</precision>
     <unique>false</unique>
 </CustomField>

@@ -3,8 +3,8 @@
     <fullName>NumberSent</fullName>
     <type>Number</type>
     <required>false</required>
-    <precision>18</precision>
     <scale>0</scale>
+    <precision>18</precision>
     <unique>false</unique>
     <trackHistory>false</trackHistory>
 </CustomField>

@@ -2,8 +2,8 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>TargetKeyPrefix</fullName>
     <type>Text</type>
-    <length>3</length>
     <required>true</required>
+    <length>3</length>
     <unique>false</unique>
     <caseSensitive>false</caseSensitive>
 </CustomField>

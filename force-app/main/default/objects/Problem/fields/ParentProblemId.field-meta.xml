@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>ParentProblemId</fullName>
     <type>Hierarchy</type>
-    <relationshipName>ParentProblem</relationshipName>
     <required>false</required>
+    <relationshipName>ParentProblem</relationshipName>
     <trackFeedHistory>false</trackFeedHistory>
 </CustomField>

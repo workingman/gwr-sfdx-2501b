@@ -3,7 +3,7 @@
     <fullName>Score</fullName>
     <type>Number</type>
     <required>false</required>
-    <precision>12</precision>
     <scale>6</scale>
+    <precision>12</precision>
     <unique>false</unique>
 </CustomField>

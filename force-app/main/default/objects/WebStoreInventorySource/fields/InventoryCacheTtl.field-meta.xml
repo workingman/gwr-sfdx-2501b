@@ -3,8 +3,8 @@
     <fullName>InventoryCacheTtl</fullName>
     <type>Number</type>
     <required>false</required>
-    <inlineHelpText>The Inventory Cache Time To Live must be between 300 and 14,400. The default for a new store is 1,440.</inlineHelpText>
-    <precision>9</precision>
     <scale>0</scale>
+    <precision>9</precision>
     <unique>false</unique>
+    <inlineHelpText>The Inventory Cache Time To Live must be between 300 and 14,400. The default for a new store is 1,440.</inlineHelpText>
 </CustomField>
