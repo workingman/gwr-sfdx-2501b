@@ -3,7 +3,7 @@
     <fullName>CardLastFour</fullName>
     <type>Number</type>
     <required>false</required>
-    <precision>4</precision>
     <scale>0</scale>
+    <precision>4</precision>
     <unique>false</unique>
 </CustomField>

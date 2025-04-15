@@ -3,7 +3,7 @@
     <fullName>TotalQuantity</fullName>
     <type>Number</type>
     <required>false</required>
-    <precision>14</precision>
     <scale>2</scale>
+    <precision>14</precision>
     <unique>false</unique>
 </CustomField>

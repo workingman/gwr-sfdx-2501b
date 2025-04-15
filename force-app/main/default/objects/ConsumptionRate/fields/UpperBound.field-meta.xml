@@ -3,8 +3,8 @@
     <fullName>UpperBound</fullName>
     <type>Number</type>
     <required>false</required>
-    <inlineHelpText>The highest quantity of usage for this consumption rate.</inlineHelpText>
-    <precision>9</precision>
     <scale>0</scale>
+    <precision>9</precision>
     <unique>false</unique>
+    <inlineHelpText>The highest quantity of usage for this consumption rate.</inlineHelpText>
 </CustomField>

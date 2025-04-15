@@ -3,7 +3,7 @@
     <fullName>Subtotal</fullName>
     <type>Currency</type>
     <required>false</required>
-    <inlineHelpText>Total of the charge amount and adjustment. Doesn&apos;t include the tax amount.</inlineHelpText>
     <scale>2</scale>
     <precision>18</precision>
+    <inlineHelpText>Total of the charge amount and adjustment. Doesn&apos;t include the tax amount.</inlineHelpText>
 </CustomField>

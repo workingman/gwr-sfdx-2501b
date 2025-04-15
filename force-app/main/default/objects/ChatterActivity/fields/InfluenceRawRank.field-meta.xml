@@ -3,7 +3,7 @@
     <fullName>InfluenceRawRank</fullName>
     <type>Number</type>
     <required>true</required>
-    <precision>9</precision>
     <scale>0</scale>
+    <precision>9</precision>
     <unique>false</unique>
 </CustomField>

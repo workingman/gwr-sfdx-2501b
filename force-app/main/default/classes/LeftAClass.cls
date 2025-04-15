@@ -1,5 +1,5 @@
-public with sharing class LeftAClass {
+public with sharing class LeftAClass { // conflicting code
     public LeftAClass() {
-// 20250121-230725 GWR
+// 20250121-230725 GWR conflicting code
     }
 }

@@ -3,9 +3,9 @@
     <fullName>TotalOpportunityQuantity</fullName>
     <type>Number</type>
     <required>false</required>
-    <trackTrending>false</trackTrending>
-    <precision>18</precision>
     <scale>2</scale>
+    <precision>18</precision>
     <unique>false</unique>
+    <trackTrending>false</trackTrending>
     <trackFeedHistory>false</trackFeedHistory>
 </CustomField>

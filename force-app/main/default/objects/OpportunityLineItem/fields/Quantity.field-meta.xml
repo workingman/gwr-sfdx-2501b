@@ -3,7 +3,7 @@
     <fullName>Quantity</fullName>
     <type>Number</type>
     <required>true</required>
-    <precision>12</precision>
     <scale>2</scale>
+    <precision>12</precision>
     <unique>false</unique>
 </CustomField>

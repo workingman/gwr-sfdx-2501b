@@ -3,8 +3,8 @@
     <fullName>AssetLevel</fullName>
     <type>Number</type>
     <required>false</required>
-    <precision>9</precision>
     <scale>0</scale>
+    <precision>9</precision>
     <unique>false</unique>
     <trackHistory>false</trackHistory>
 </CustomField>

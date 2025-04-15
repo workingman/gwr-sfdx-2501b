@@ -3,7 +3,7 @@
     <fullName>TotalCreditAmountUnapplied</fullName>
     <type>Currency</type>
     <required>false</required>
-    <inlineHelpText>Amount unapplied from invoices and returned to the credit memo.</inlineHelpText>
     <scale>2</scale>
     <precision>18</precision>
+    <inlineHelpText>Amount unapplied from invoices and returned to the credit memo.</inlineHelpText>
 </CustomField>

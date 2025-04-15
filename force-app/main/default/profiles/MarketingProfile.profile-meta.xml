@@ -1315,6 +1315,16 @@
         <editable>false</editable>
     </fieldPermissions>
     <fieldPermissions>
+        <field>Case.GWR_Stats1__c</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>Case.GWR_Urgency__c</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
         <field>Case.IsClosedOnCreate</field>
         <readable>false</readable>
         <editable>false</editable>

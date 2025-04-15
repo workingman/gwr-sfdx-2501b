@@ -3,8 +3,8 @@
     <fullName>MaximumUsageCount</fullName>
     <type>Number</type>
     <required>false</required>
-    <inlineHelpText>Enter the maximum number of times this promotion can apply to a cart. The default value is 1.</inlineHelpText>
-    <precision>9</precision>
     <scale>0</scale>
+    <precision>9</precision>
     <unique>false</unique>
+    <inlineHelpText>Enter the maximum number of times this promotion can apply to a cart. The default value is 1.</inlineHelpText>
 </CustomField>

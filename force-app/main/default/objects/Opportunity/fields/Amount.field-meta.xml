@@ -3,8 +3,8 @@
     <fullName>Amount</fullName>
     <type>Currency</type>
     <required>false</required>
-    <trackTrending>false</trackTrending>
     <scale>2</scale>
     <precision>18</precision>
+    <trackTrending>false</trackTrending>
     <trackFeedHistory>true</trackFeedHistory>
 </CustomField>
