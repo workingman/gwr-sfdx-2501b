@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>LastCloseDateChangedHistoryId</fullName>
     <type>Lookup</type>
-    <relationshipName>LastCloseDateChangedHistory</relationshipName>
     <required>false</required>
+    <relationshipName>LastCloseDateChangedHistory</relationshipName>
     <trackFeedHistory>false</trackFeedHistory>
 </CustomField>

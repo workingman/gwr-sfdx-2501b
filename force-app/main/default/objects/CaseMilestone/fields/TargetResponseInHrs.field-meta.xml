@@ -3,7 +3,7 @@
     <fullName>TargetResponseInHrs</fullName>
     <type>Number</type>
     <required>false</required>
-    <precision>6</precision>
     <scale>2</scale>
+    <precision>6</precision>
     <unique>false</unique>
 </CustomField>

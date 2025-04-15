@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>BusinessHoursId</fullName>
     <type>Lookup</type>
-    <relationshipName>BusinessHours</relationshipName>
     <required>false</required>
+    <relationshipName>BusinessHours</relationshipName>
     <trackFeedHistory>false</trackFeedHistory>
 </CustomField>

@@ -3,8 +3,8 @@
     <fullName>BaseCurrencyFxRate</fullName>
     <type>Number</type>
     <required>false</required>
-    <inlineHelpText>Rate of exchange according to the Base Currency FX Date. Define this value to use later when you calculate currency conversions.</inlineHelpText>
-    <precision>18</precision>
     <scale>2</scale>
+    <precision>18</precision>
     <unique>false</unique>
+    <inlineHelpText>Rate of exchange according to the Base Currency FX Date. Define this value to use later when you calculate currency conversions.</inlineHelpText>
 </CustomField>

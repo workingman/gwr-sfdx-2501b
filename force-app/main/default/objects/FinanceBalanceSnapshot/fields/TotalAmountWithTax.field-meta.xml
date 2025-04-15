@@ -3,7 +3,7 @@
     <fullName>TotalAmountWithTax</fullName>
     <type>Currency</type>
     <required>false</required>
-    <inlineHelpText>The subtotal plus the tax amount</inlineHelpText>
     <scale>2</scale>
     <precision>18</precision>
+    <inlineHelpText>The subtotal plus the tax amount</inlineHelpText>
 </CustomField>

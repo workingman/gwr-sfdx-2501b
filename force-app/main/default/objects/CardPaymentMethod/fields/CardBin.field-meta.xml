@@ -3,7 +3,7 @@
     <fullName>CardBin</fullName>
     <type>Number</type>
     <required>false</required>
-    <precision>6</precision>
     <scale>0</scale>
+    <precision>6</precision>
     <unique>false</unique>
 </CustomField>

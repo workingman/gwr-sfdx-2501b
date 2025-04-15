@@ -3,7 +3,7 @@
     <fullName>Balance</fullName>
     <type>Currency</type>
     <required>false</required>
-    <inlineHelpText>Final balance of the snapshot&apos;s reference entity. Inherited from the finance transaction&apos;s resulting balance if the finance transaction&apos;s reference entity is a credit memo, debit memo, invoice, payment, or refund.</inlineHelpText>
     <scale>2</scale>
     <precision>18</precision>
+    <inlineHelpText>Final balance of the snapshot&apos;s reference entity. Inherited from the finance transaction&apos;s resulting balance if the finance transaction&apos;s reference entity is a credit memo, debit memo, invoice, payment, or refund.</inlineHelpText>
 </CustomField>

@@ -3,8 +3,8 @@
     <fullName>RedemptionLimitPerBuyer</fullName>
     <type>Number</type>
     <required>false</required>
-    <inlineHelpText>Number of times this coupon can be used per customer.</inlineHelpText>
-    <precision>9</precision>
     <scale>0</scale>
+    <precision>9</precision>
     <unique>false</unique>
+    <inlineHelpText>Number of times this coupon can be used per customer.</inlineHelpText>
 </CustomField>

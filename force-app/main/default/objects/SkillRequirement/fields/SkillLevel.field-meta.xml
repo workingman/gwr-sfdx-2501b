@@ -3,7 +3,7 @@
     <fullName>SkillLevel</fullName>
     <type>Number</type>
     <required>false</required>
-    <precision>4</precision>
     <scale>2</scale>
+    <precision>4</precision>
     <unique>false</unique>
 </CustomField>

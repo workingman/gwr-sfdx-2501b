@@ -41,11 +41,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
-        <application>standard__ExpressionSetConsole</application>
-        <default>false</default>
-        <visible>true</visible>
-    </applicationVisibilities>
-    <applicationVisibilities>
         <application>standard__FlowsApp</application>
         <default>false</default>
         <visible>true</visible>
@@ -815,301 +810,6 @@
         <editable>true</editable>
     </fieldPermissions>
     <fieldPermissions>
-        <field>CalcProcStepRelationship.CalcProcVersionId</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalcProcStepRelationship.Description</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalcProcStepRelationship.Label</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalcProcStepRelationship.Namespace</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalcProcStepRelationship.Priority</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalcProcStepRelationship.RelationshipType</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrix.Description</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrix.GroupKey</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrix.MigrationStatus</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrix.Namespace</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrix.SubGroupKey</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrix.UniqueName</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixColumn.ApiName</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixColumn.ColumnType</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixColumn.DataType</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixColumn.DisplaySequence</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixColumn.IsWildcardColumn</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixColumn.Namespace</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixColumn.RangeValues</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixColumn.WildcardColumnValue</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixRow.Namespace</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixVersion.ApiName</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixVersion.EndDateTime</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixVersion.GroupKey</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixVersion.GroupKeyValue</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixVersion.IsEnabled</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixVersion.MatrixType</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixVersion.Namespace</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixVersion.Rank</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixVersion.StartDateTime</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixVersion.SubGroupKey</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationMatrixVersion.SubGroupKeyValue</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedure.Description</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedure.InputVariablesMetadata</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedure.MigrationStatus</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedure.OutputVariablesMetadata</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureStep.Namespace</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVariable.ApiName</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVariable.CalculationMatrixName</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVariable.DataType</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVariable.DefaultValue</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVariable.DisplayName</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVariable.IsEditable</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVariable.IsUserDefined</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVariable.Namespace</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVariable.Precision</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVariable.UiDisplayOrder</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVersion.Constants</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVersion.Description</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVersion.EndDateTime</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVersion.IsEnabled</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVersion.IsLoopingEnabled</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVersion.LastSimulatedVariablesInput</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVersion.LoopEnd</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVersion.LoopIncrement</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVersion.LoopStart</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVersion.Rank</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVersion.StartDateTime</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>CalculationProcedureVersion.VersionNumber</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
         <field>Campaign.ActualCost</field>
         <readable>false</readable>
         <editable>false</editable>
@@ -1311,6 +1011,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <field>Case.EntitlementId</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>Case.GWR_Stats1__c</field>
+        <readable>false</readable>
+        <editable>false</editable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <field>Case.GWR_Urgency__c</field>
         <readable>false</readable>
         <editable>false</editable>
     </fieldPermissions>
@@ -3535,36 +3245,6 @@
         <editable>true</editable>
     </fieldPermissions>
     <fieldPermissions>
-        <field>RevenueTransactionErrorLog.Category</field>
-        <readable>true</readable>
-        <editable>true</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>RevenueTransactionErrorLog.ErrorCode</field>
-        <readable>true</readable>
-        <editable>true</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>RevenueTransactionErrorLog.PrimaryTextRecord</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>RevenueTransactionErrorLog.RelatedRecord2Id</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>RevenueTransactionErrorLog.RelatedRecordId</field>
-        <readable>true</readable>
-        <editable>true</editable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <field>RevenueTransactionErrorLog.RequestIdentifier</field>
-        <readable>false</readable>
-        <editable>false</editable>
-    </fieldPermissions>
-    <fieldPermissions>
         <field>Seller.ActiveFromDate</field>
         <readable>true</readable>
         <editable>true</editable>
@@ -4617,9 +4297,6 @@
         <layout>AsyncOperationLog-Async Operation Log Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>AsyncOperationTracker-Async Operation Tracker Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>AuthorizationForm-Authorization Form Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -4633,36 +4310,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>BusinessBrand-Business Brand Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CalcMatrixColumnRange-Decision Matrix Column Range Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CalcProcStepRelationship-Expression Set Step Relationship Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CalculationMatrix-Decision Matrix Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CalculationMatrixColumn-Decision Matrix Column Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CalculationMatrixRow-Decision Matrix Row Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CalculationMatrixVersion-Decision Matrix Version Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CalculationProcedure-Calculation Procedure Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CalculationProcedureStep-Calculation Procedure Step Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CalculationProcedureVariable-Calculation Procedure Variable Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CalculationProcedureVersion-Calculation Procedure Version Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>CartCheckoutSession-Cart Checkout Session Layout</layout>
@@ -4719,12 +4366,6 @@
         <layout>EntityMilestone-Object Milestone Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>ExpressionSet-Expression Set Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ExpressionSetVersion-Expression Set Version Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>FeedItem-Feed Item Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -4771,12 +4412,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>ReturnOrderLineItem-Return Order Line Item Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>RevenueAsyncOperation-Revenue Async Operation Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>RevenueTransactionErrorLog-Revenue Transaction Error Log Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Seller-Seller Layout</layout>

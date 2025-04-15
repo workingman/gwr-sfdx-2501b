@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>GWR_checkbokx2__c</fullName>
+    <label>__GWR checkbokx2</label>
     <type>Checkbox</type>
     <defaultValue>false</defaultValue>
-    <label>__GWR checkbokx2</label>
+    <description>20250415-081542 prod</description>
     <trackFeedHistory>false</trackFeedHistory>
 </CustomField>

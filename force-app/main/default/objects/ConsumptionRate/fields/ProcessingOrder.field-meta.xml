@@ -3,8 +3,8 @@
     <fullName>ProcessingOrder</fullName>
     <type>Number</type>
     <required>true</required>
-    <inlineHelpText>The order for processing the usage rate across multiple rates. Consumption Rates are evaluated beginning with the lowest processing order.</inlineHelpText>
-    <precision>9</precision>
     <scale>0</scale>
+    <precision>9</precision>
     <unique>false</unique>
+    <inlineHelpText>The order for processing the usage rate across multiple rates. Consumption Rates are evaluated beginning with the lowest processing order.</inlineHelpText>
 </CustomField>

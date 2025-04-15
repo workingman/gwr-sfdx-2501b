@@ -3,8 +3,8 @@
     <fullName>ContactEmail</fullName>
     <type>Email</type>
     <required>false</required>
-    <trackTrending>false</trackTrending>
     <unique>false</unique>
+    <trackTrending>false</trackTrending>
     <trackHistory>false</trackHistory>
     <trackFeedHistory>false</trackFeedHistory>
 </CustomField>

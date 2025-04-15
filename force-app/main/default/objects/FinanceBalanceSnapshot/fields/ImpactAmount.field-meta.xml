@@ -3,7 +3,7 @@
     <fullName>ImpactAmount</fullName>
     <type>Currency</type>
     <required>false</required>
-    <inlineHelpText>The finance transaction&apos;s impact on the customer&apos;s finances</inlineHelpText>
     <scale>2</scale>
     <precision>18</precision>
+    <inlineHelpText>The finance transaction&apos;s impact on the customer&apos;s finances</inlineHelpText>
 </CustomField>

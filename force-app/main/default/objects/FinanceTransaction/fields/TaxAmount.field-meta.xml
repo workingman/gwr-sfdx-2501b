@@ -3,7 +3,7 @@
     <fullName>TaxAmount</fullName>
     <type>Currency</type>
     <required>false</required>
-    <inlineHelpText>The total amount of tax for the change made to your reference entity as a result of the event action</inlineHelpText>
     <scale>2</scale>
     <precision>18</precision>
+    <inlineHelpText>The total amount of tax for the change made to your reference entity as a result of the event action</inlineHelpText>
 </CustomField>

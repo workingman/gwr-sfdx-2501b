@@ -3,7 +3,7 @@
     <fullName>ChargeAmount</fullName>
     <type>Currency</type>
     <required>false</required>
-    <inlineHelpText>The charge contributing to the transaction&apos;s subtotal</inlineHelpText>
     <scale>2</scale>
     <precision>18</precision>
+    <inlineHelpText>The charge contributing to the transaction&apos;s subtotal</inlineHelpText>
 </CustomField>

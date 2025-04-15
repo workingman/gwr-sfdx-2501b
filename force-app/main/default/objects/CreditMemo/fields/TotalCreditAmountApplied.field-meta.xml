@@ -3,7 +3,7 @@
     <fullName>TotalCreditAmountApplied</fullName>
     <type>Currency</type>
     <required>false</required>
-    <inlineHelpText>Amount applied from the credit memo to invoices.</inlineHelpText>
     <scale>2</scale>
     <precision>18</precision>
+    <inlineHelpText>Amount applied from the credit memo to invoices.</inlineHelpText>
 </CustomField>
