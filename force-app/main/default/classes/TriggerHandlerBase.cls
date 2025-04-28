@@ -13,7 +13,7 @@ public virtual with sharing class TriggerHandlerBase {
                 this.beforeDelete(Trigger.oldMap);
             }
         }
-        // Is After
+// z20250123-204800
         else {
             if(Trigger.isInsert) {
                 this.afterInsert(Trigger.New);
